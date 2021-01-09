@@ -6,4 +6,4 @@ exec podman run -it --rm \
     -v ./:/work \
     "$@" \
     quay.io/matiasp/gsmnet \
-    tmux new-session osmo-trx-lms \; new-window osmo-nitb \; new-window 'sleep 5; osmo-bts-trx' \; attach
+    tmux new-session osmo-trx-lms \; new-window osmo-nitb \; new-window 'sleep 5; exec osmo-bts-trx' \; attach
