@@ -1,5 +1,5 @@
 # gsmnet
-Container for running [@racerxdl](https://github.com/racerxdl)'s [tutorial](https://lucasteske.dev/2019/12/creating-your-own-gsm-network-with-limesdr) on modern Linux
+Container for running [@racerxdl](https://github.com/racerxdl)'s [GSM network tutorial](https://lucasteske.dev/2019/12/creating-your-own-gsm-network-with-limesdr) on modern Linux
 
 ## How-to
 
